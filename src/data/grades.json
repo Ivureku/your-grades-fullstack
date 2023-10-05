@@ -1,0 +1,14 @@
+[
+    {
+        "number": "CS 5123",
+        "name": "course1",
+        "units": 3,
+        "grade": "A"
+    },
+    {
+        "number": "DS 0345",
+        "name": "course2",
+        "units": 3,
+        "grade": "F"
+    }
+]
